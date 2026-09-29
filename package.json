@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-scrapeunblocker-target-search",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n community node for the Target Search Scraper Apify Actor by ScrapeUnblocker: Target products with TCIN, brand and price as JSON",
 	"license": "MIT",
 	"homepage": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-target-search#readme",
