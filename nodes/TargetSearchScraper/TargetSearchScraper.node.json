@@ -1,0 +1,31 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-target-search.targetSearchScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Sales",
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-target-search#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-target-search#readme"
+			}
+		]
+	},
+	"alias": [
+		"target",
+		"retail",
+		"products",
+		"prices",
+		"ecommerce",
+		"scraper",
+		"apify",
+		"scrapeunblocker"
+	]
+}
